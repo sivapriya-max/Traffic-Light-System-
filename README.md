@@ -1,4 +1,3 @@
-# Traffic-Light-System-
 #  Traffic Light System in C
 
 ##  Project Description
